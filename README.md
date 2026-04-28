@@ -1,7 +1,7 @@
 <div align="center">
 
-# 🛰️ Alex “Nightfall” — Portfolio  
-> Network Engineering • Telemetry Systems • Stealth Automation Architect  
+# 🛰️ Alex — Network Engineer & Systems Specialist  
+> Cisco Networking • Windows & Linux Systems • Automation • Telemetry Engineering  
 
 ---
 
@@ -15,79 +15,80 @@
 <a href="mailto:YOUREMAIL@example.com">
   <img src="https://img.shields.io/badge/Email-0078D4?logo=microsoftoutlook&logoColor=white">
 </a>
+
 <img src="https://img.shields.io/badge/Security%2B-Certified-green">
 <img src="https://img.shields.io/badge/CCNA-In%20Progress-blue">
 
 ---
 
-## 🌑 About Me  
-I’m Alex — a **Network Engineer & creative brand strategist** blending Cisco networking, system administration, and stealth‑themed automation into one ecosystem.
+## 👋 About Me  
+I’m Alex — a **Network Engineer and systems-focused problem solver** with a passion for building reliable infrastructure, automating workflows, and experimenting with telemetry and real‑time data systems.
 
-I build **modular tools, telemetry systems, and branded IT experiences** that feel like they belong in a SOC with mood lighting and a classified badge reader.
+I enjoy creating **hands‑on labs, automation scripts, and multi‑OS environments** that mirror real enterprise setups.
 
-- 🛰️ **Interests:** Networking, telemetry, automation, SIEM pipelines, stealth UI/UX  
-- 🧰 **Tools:** Cisco IOS, PowerShell, Python, Hyper‑V, VMware, Wireshark  
-- ⚙️ **Current Focus:** Multi‑lap race telemetry simulation, UDP streaming labs, SSL/TLS troubleshooting automation  
+- 🔧 **Interests:** Networking, systems engineering, telemetry, automation, virtualization  
+- 🧰 **Tools:** Cisco IOS, PowerShell, Python, Hyper‑V, VMware ESXi, Wireshark  
+- 🚀 **Current Focus:** Telemetry simulation, UDP streaming, SSL/TLS troubleshooting, multi‑OS labs  
 
 ---
 
-## 🕶️ Featured Repos (Nightfall Arsenal)
+## ⭐ Featured Repositories
 | Project | What it shows | Stack | Link |
 |---|---|---|---|
-| **Spa Telemetry Simulator** | Sector‑based lap data, fuel burn, temps, JSON-driven evolution | PowerShell / JSON | *Coming Soon* |
-| **Darkframe Tools** | Modular scripts, logging, stealth branding | PowerShell | *Private / In Development* |
+| **Telemetry Simulator** | Multi‑lap JSON-driven race data, sector deltas, fuel/temps | PowerShell / JSON | *Coming Soon* |
+| **Automation Toolkit** | Modular scripts, logging, system utilities | PowerShell | *In Development* |
 | **Python GUI Experiments** | Threading, UI responsiveness, modular widgets | Python (customtkinter) | *Repo Link* |
 
 ---
 
-## ⚡ Skills at a Glance  
+## ⚡ Skills Overview  
 
 ### **Networking**
-- VLANs, routing, Cisco IOS, packet analysis  
-- Multi-switch topologies, trunking, inter-VLAN routing  
+- VLANs, trunking, routing  
+- Cisco IOS configuration  
+- Packet analysis with Wireshark  
+- Multi-switch topologies  
 
-### **Systems & Operating Systems**
+### **Operating Systems**
 - **Windows Server:** 2019, 2022, 2025  
 - **Linux:** Red Hat Enterprise Linux 8 & 9, Ubuntu  
 - **Client OS:** Windows 11  
 - **Virtualization:** VMware ESXi, Hyper‑V  
-- **Directory Services:** AD DS, domain design, GPO fundamentals  
 
-### **Security**
+### **Systems & Security**
+- Active Directory, domain design, GPO fundamentals  
 - SSL/TLS troubleshooting  
 - VMware Horizon/vCenter cipher analysis  
-- Log pipelines, SIEM fundamentals  
+- Log pipelines & monitoring fundamentals  
 
 ### **Automation & Development**
-- PowerShell modules  
-- JSON/CSV‑driven pipelines  
-- Python GUIs (customtkinter), threading, modular architecture  
+- PowerShell scripting & modules  
+- JSON/CSV-driven automation  
+- Python GUI development (customtkinter)  
+- Multi-threaded application design  
 
-### **Telemetry**
+### **Telemetry & Data**
 - UDP streaming  
-- Race simulation  
-- Real‑time dashboards  
-
-### **Documentation**
-- Diagrams, runbooks, technical breakdowns  
+- Real-time dashboards  
+- Simulation modeling  
 
 ---
 
 ## 🧪 Recent Projects  
 | Project | Description |
 |---|---|
-| **SSL/TLS Cipher Mismatch Investigation** | Deep‑dive into Horizon/vCenter TLS stacks, registry/GPO validation, automated remediation |
-| **UDP Telemetry Streaming Lab** | Windows‑to‑Windows real‑time data stream with firewall/port validation |
-| **Spa Race Telemetry Simulation** | 5‑lap evolving JSON model with gear, fuel, temps, and sector deltas |
-| **Hyper‑V Network Lab** | Multi‑switch Cisco topology, VLANs, AD DS, DHCP, and routing |
+| **SSL/TLS Cipher Mismatch Investigation** | Analyzed Horizon/vCenter TLS stacks, registry/GPO validation, automated remediation |
+| **UDP Telemetry Streaming Lab** | Built Windows-to-Windows real-time data stream with firewall/port validation |
+| **Race Telemetry Simulation** | Created evolving JSON model with gear, fuel, temps, and sector deltas |
+| **Hyper‑V Network Lab** | Designed multi-switch Cisco topology with VLANs, AD DS, DHCP, and routing |
 
 ---
 
 ## 🚧 Upcoming Projects  
-| Project | Status & Stack |
+| Project | Status |
 |---|---|
-| **Nightfall Enterprise Lab** | In Progress — Dual DCs, AD backups, Wazuh SIEM/XDR, VLAN segmentation, pfSense, VirtualBox |
-| **Darkframe Dashboard** | Planned — Telemetry UI with branded widgets, real‑time updates, modular panels |
+| **Enterprise Lab Environment** | In Progress — Dual DCs, AD backups, Wazuh SIEM/XDR, VLAN segmentation, pfSense |
+| **Telemetry Dashboard** | Planned — Real-time UI with modular panels and live data updates |
 
 ---
 
@@ -107,6 +108,6 @@ I build **modular tools, telemetry systems, and branded IT experiences** that fe
 
 ---
 
-<sub><em>“Precision. Modularity. Stealth.”</em></sub>
+<sub><em>“Build. Automate. Improve.”</em></sub>
 
 </div>
