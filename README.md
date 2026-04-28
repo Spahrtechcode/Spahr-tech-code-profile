@@ -17,7 +17,7 @@
 </a>
 
 <img src="https://img.shields.io/badge/Security%2B-Certified-green">
-<img src="https://img.shields.io/badge/CCNA-In%20Progress-blue">
+<img src="https://img.shields.io/badge/CCNA-Certified-brightgreen">
 
 ---
 
@@ -96,7 +96,7 @@ I enjoy creating **hands‑on labs, automation scripts, and multi‑OS environme
 | Certification | Date / Status |
 |---|---|
 | **CompTIA Security+** | Completed |
-| **CCNA** | Scheduled |
+| **CCNA (Cisco Certified Network Associate)** | Completed |
 | **Python for Everybody** | Completed |
 | **ITF+** | Completed |
 
@@ -111,3 +111,4 @@ I enjoy creating **hands‑on labs, automation scripts, and multi‑OS environme
 <sub><em>“Build. Automate. Improve.”</em></sub>
 
 </div>
+
