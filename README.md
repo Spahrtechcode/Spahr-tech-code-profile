@@ -21,6 +21,8 @@
 
 ---
 
+</div>
+
 ## 👋 About Me  
 I’m Alex — a **Network Engineer and systems-focused problem solver** with experience across enterprise networking, virtualization, Windows and Linux environments, and automation.
 
@@ -92,6 +94,6 @@ I enjoy building **hands‑on labs, multi‑OS environments, and automation scri
 
 ---
 
+<div align="center">
 <sub><em>“Build. Automate. Improve.”</em></sub>
-
 </div>
